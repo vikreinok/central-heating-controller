@@ -24,7 +24,7 @@ What is a central heating controller. It is a device that is located in basement
 - PCB design manual
 
 ## Contributions
-In case someone wants to further develop the product or contribute I am willing to support as much as I can. Mentoring, education al project guidance etc.
+In case someone wants to further develop the product or contribute I am willing to support as much as I can. Mentoring, educational project guidance, financing etc. I am open to Your suggestions. 
 
 ## Images
 
