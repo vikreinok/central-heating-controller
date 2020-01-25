@@ -25,3 +25,7 @@ A device the that is located in basements of residential buildings hear heat exc
 
 ## Contributions
 In case someone wants to further develop the product I am willing to support as much as I can.
+
+![PCB](/documentation/1.JPG)
+
+![Circut deisgn](/documentation/EC-12M.PDF)
