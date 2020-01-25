@@ -3,7 +3,7 @@
 A product developed during my early days in late teens (High school times)
 
 ## Description
-A device the that is located in basements of residential buildings hear heat exchanger to control the flow of hot water into the building based on temperature outside
+A device that is located in basements of residential buildings near heat exchanger to control the flow of hot water into the building based on outdoor temperature. 
 
 ## Functionality
 - Graph based tuning (open loop feedback)
@@ -15,17 +15,25 @@ A device the that is located in basements of residential buildings hear heat exc
 - USB debugging functionality 
 
 
-## Stack
-- Software witten in ANSI-C (CCS compiler)
+## Technology stack
+- Software written in ANSI-C (CCS compiler)
 - PIC 18F series microcontroller
 - Debugging Proteus ISIS
-- Model Mathlab Simulink
-- PCB design Proetus Ares 
+- Model MatLab Simulink
+- PCB design Proteus Ares 
 - PCB design manual
 
 ## Contributions
-In case someone wants to further develop the product I am willing to support as much as I can.
+In case someone wants to further develop the product or contribute I am willing to support as much as I can. Mentoring, education al project guidance etc.
 
-![PCB](/documentation/1.JPG)
+## Images
 
-![Circut deisgn](/documentation/EC-12M.PDF)
+![layout](/documentation/Skeem.JPG)
+
+![PCB](/documentation/PCB%20nr6.JPG)
+
+## Resources
+- [circut_deisgn.pdf](/documentation/EC-12M.PDF)
+- [pcb_BON.pdf](/documentation/EC-12M%20Bill%20of%20materials.pdf)
+- [documentation_estonian.pdf](/documentation/Individuaalne%20ülesanne%20AA%20-%2006%20Viktor%20Reinok.pdf)
+- [simulink_model_documentation_estonian.pdf](/documentation/Individuaalne%20ülesanne%20AA%20-%2006%20Viktor%20Reinok.pdf)
