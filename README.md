@@ -3,7 +3,7 @@
 A product developed during my early days in late teens (High school times)
 
 ## Description
-A device that is located in basements of residential buildings near heat exchanger to control the flow of hot water into the building based on outdoor temperature. 
+What is a central heating controller. It is a device that is located in basements of residential buildings near heat exchanger to control the flow of hot water into the building based on outdoor temperature. 
 
 ## Functionality
 - Graph based tuning (open loop feedback)
