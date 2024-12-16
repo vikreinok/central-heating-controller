@@ -36,4 +36,4 @@ In case someone wants to further develop the product or contribute I am willing 
 - [circut_deisgn.pdf](/documentation/EC-12M.PDF)
 - [pcb_BON.pdf](/documentation/EC-12M%20Bill%20of%20materials.pdf)
 - [documentation_estonian.pdf](/documentation/Individuaalne%20ülesanne%20AA%20-%2006%20Viktor%20Reinok.pdf)
-- [simulink_model_documentation_estonian.pdf](/documentation/Individuaalne%20ülesanne%20AA%20-%2006%20Viktor%20Reinok.pdf)
+- [simulink_model_documentation_estonian.pdf](/documentation/lõputöö%20t104557%20Viktor%20Reinok.pdf)
